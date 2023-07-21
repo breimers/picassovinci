@@ -4,3 +4,4 @@ matplotlib
 IPython
 nvidia-tensorrt
 datasets[vision]
+gutenberg
